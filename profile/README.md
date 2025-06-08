@@ -86,5 +86,5 @@
 <div align="center">
 
 ### "실시간 데이터로 하늘의 안전을 지키는 기술"
-
+**Contact**: di0308@naver.com | **GitHub**: [@JaiIn](https://github.com/JaiIn)
 </div>
